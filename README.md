@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 怎么没了啊
+=======
+
+>>>>>>> parent of 4f499bc... 加入开头
 ## 概述
 
 - en doc   [readme](doc/en/readme.md)
