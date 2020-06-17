@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
+=======
+第一版
+第二版
+第三版
+>>>>>>> parent of 0a7da9b... Revert "Update README.md"
 ## 概述
 
 - en doc   [readme](doc/en/readme.md)
